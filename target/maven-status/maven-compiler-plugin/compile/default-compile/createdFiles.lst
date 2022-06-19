@@ -1,0 +1,6 @@
+sh/auxuji/authx/paper/listener/EntityListener.class
+sh/auxuji/authx/paper/listener/PlayerListener.class
+sh/auxuji/authx/paper/AuthX.class
+sh/auxuji/authx/paper/listener/PluginMessageListener.class
+sh/auxuji/authx/paper/listener/BlockListener.class
+sh/auxuji/authx/paper/listener/InventoryListener.class

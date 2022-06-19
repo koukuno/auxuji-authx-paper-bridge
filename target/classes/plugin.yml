@@ -1,0 +1,4 @@
+name: "auxuji-authx-paper-bridge"
+main: "sh.auxuji.authx.paper.AuthX"
+version: "1.0"
+api-version: 1.17
